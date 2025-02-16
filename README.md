@@ -481,3 +481,10 @@ set background=dark
 ---
 
 🚀 **Neovim is now a fully-featured IDE!** 😃
+
+## **Summary of Files**
+| File Name               | Path                         | Purpose |
+|-------------------------|-----------------------------|---------|
+| `example.txt`          | `~/example.txt`             | Sample data file |
+| `init.vim`             | `~/.config/nvim/init.vim`   | Neovim configuration |
+| `install_vim_plug.sh`  | `~/install_vim_plug.sh`     | Script to install vim-plug |
